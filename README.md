@@ -24,7 +24,7 @@
 
 
 ## Hamming Code Nedir?
-Hata düzeltme kodlarından biri olan Hamming kod, Richard Hamming tarafından geliştirilmiştir.Veri bitlerinde meydana gelen hata, parity(eşlik) bitleri sayesinde kolayca bulunur.Veriye eşlenecek parity biti sayısı 2k -1 >= m+k denklemiyle bulunur.(m=veri biti sayısı,k=parity biti sayısı)Bu denkleme göre, 4 bitlik bir veri için 3 parity biti kullanılır. Hamming code hatasını bulma işlemi bu kodla kolay bir şekilde yapılabilir.  
+Hata düzeltme kodlarından biri olan Hamming kod, Richard Hamming tarafından geliştirilmiştir.Veri bitlerinde meydana gelen hata, parity(eşlik) bitleri sayesinde kolayca bulunur.Veriye eşlenecek parity biti sayısı 2ᵏ -1 >= m+k denklemiyle bulunur.(m=veri biti sayısı,k=parity biti sayısı)Bu denkleme göre, 4 bitlik bir veri için 3 parity biti kullanılır. Hamming code hatasını bulma işlemi bu kodla kolay bir şekilde yapılabilir.  
 
 ## Proje Yapısı?
 + Proje Python diliyle ve TKinter GUI kütüphanesi kullanılarak oluşturulmuştur.
