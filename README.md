@@ -12,7 +12,7 @@
 + The error bit can be obtained from the user or it can be obtained in a randomly
 + The hamming code is calculated according to the entered error and corrected by finding the error bit.
  
-# How to Download?
+## How to Download?
 + In order for the project to work, you must be using a Python Ide.
  + If you are not already using a Python ide, you can use ides such as Pycharm, Spyder, VS Code,etc... 
 + Clone the project
