@@ -2,7 +2,7 @@
 ### Hamming Code Error Detection Written for Computer Architecture Lesson
 
  ## About the Hamming Code?
- The Hamming code, one of the error correction codes, was developed by Richard Hamming.The error that occurs in the data bits is easily found thanks to the parity bits.The number of parity bits to data is found by the equation 2k -1 >= m+k.(m=data bits count,k=parity bits count) According to this equation, 3 parity bits are used for 4-bit data. The process of finding the Hamming code error can be easily done with this code.
+ The Hamming code, one of the error correction codes, was developed by Richard Hamming.The error that occurs in the data bits is easily found thanks to the parity bits.The number of parity bits to data is found by the equation 2ᵏ -1 >= m+k.(m=data bits count,k=parity bits count) According to this equation, 3 parity bits are used for 4-bit data. The process of finding the Hamming code error can be easily done with this code.
  
  ## Project Structure?
 + The project was created in Python and using the TKinter GUI library.
