@@ -17,7 +17,7 @@
  + If you are not already using a Python ide, you can use ides such as Pycharm, Spyder, VS Code,etc... 
 + Clone the project
   > git clone git://github.com/mahirezuhalozdemir/HammingCode_ErrorDetection.git
-+ Download it with a zip extension
++ Or download it with a zip extension
 + Use the Tkinder library and the Random module to make the project work.
 
 
